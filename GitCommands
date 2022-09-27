@@ -2,6 +2,4 @@ git branch "BRANCH NAME" Creating a new Branch
 git checkout "BRANCH NAME" Going to that new Branch
 git commit Filename Commiting a File to the current branch
 git push pushing a file to that branch
-git push --set-upstream origin add-read-me
-
-
+git push --set-upstream origin add-read-me (FIRST TIME PUSH)
