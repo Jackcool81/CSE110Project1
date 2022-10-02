@@ -2,34 +2,10 @@
 
 > "Listen To Everything All The Time and remind yourself when your not listening" - Pauline Oliveros
 
+# Why is nothing Working
 
 <div style="width:100%">
 
-User Guide   
-
-**Pages** 
-
-[Home](index.md) 
-
-[About](About.md) 
-
-[Portfolio](Portfolio.md)
-
-[CV](CV.md) 
-
-[Contacts & Refrences](Contact.md) 
-
-*Home Guide*
-
-[Personal Description](#center--personal-description)
-
-[Technology I've Used](#center-technologies-ive-used)
-
-[Videos!](#center-videos)
-
-[Contact](#center-contact)
-
-<img src="https://cdn.discordapp.com/attachments/969018400695259199/1024437049618612324/unknown.png" alt="drawing" style="width:300%;height:300px;"/>
 
 
 </div>
