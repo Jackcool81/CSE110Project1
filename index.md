@@ -16,13 +16,13 @@
 
 *Home Guide*
 
-[Personal Description](#center--personal-description)
+[Personal Description](#personal-description)
 
-[Technology I've Used](#center-technologies-ive-used)
+[Technology I've Used](#technologies-ive-used)
 
-[Videos!](#center-videos)
+[Videos!](#videos)
 
-[Contact](#center-contact)
+[Contact](#contact)
 
 
 ###  **Personal Description**
