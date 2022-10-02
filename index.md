@@ -6,7 +6,7 @@
 <div style="width:100%">
 
 | User Guide   | <center> **Programmer and Sound Man**          |
-|-|------------------------------|
+|--------------|------------------------------------------------|
 | <div style = "width:150px;"> **Pages** </br>[Home](index.md) </br>[About](About.md) </br>[Portfolio](Portfolio.md)</br>[CV](CV.md) </br>[Contacts & Refrences](Contact.md) </br></br>*Home Guide*</br>[Personal Description](#center--personal-description) </br>[Technology I've Used](#center-technologies-ive-used) </br>[Videos!](#center-videos) </br>[Contact](#center-contact) </div> |  <img src="https://cdn.discordapp.com/attachments/969018400695259199/1024437049618612324/unknown.png" alt="drawing" style="width:300%;height:300px;"/> |
 
 
