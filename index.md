@@ -1,4 +1,4 @@
-# <center> **Jack Wagner** </center>
+# **<center> Jack Wagner</center>** 
 
 > "Listen To Everything All The Time and remind yourself when your not listening" - Pauline Oliveros
 
