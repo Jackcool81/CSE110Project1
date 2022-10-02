@@ -1,4 +1,4 @@
-# **<center> Jack Wagner</center>** 
+# **Jack Wagner** 
 
 > "Listen To Everything All The Time and remind yourself when your not listening" - Pauline Oliveros
 
@@ -6,26 +6,26 @@
 
 <div style="width:100%">
 
-| User Guide   | <center> **Programmer and Sound Man**          |
-|--------------|------------------------------------------------|
-| <div style = "width:150px;"> **Pages** </br>[Home](index.md) </br>[About](About.md) </br>[Portfolio](Portfolio.md)</br>[CV](CV.md) </br>[Contacts & Refrences](Contact.md) </br></br>*Home Guide*</br>[Personal Description](#center--personal-description) </br>[Technology I've Used](#center-technologies-ive-used) </br>[Videos!](#center-videos) </br>[Contact](#center-contact) </div> |  <img src="https://cdn.discordapp.com/attachments/969018400695259199/1024437049618612324/unknown.png" alt="drawing" style="width:300%;height:300px;"/> |
 
 
 </div>
 
 
-### <center>  **Personal Description**
-<center> ​Jack fills the position of Lead Music Producer and Head of Programming at his company Heat Wave Games. Through his 2 years of work experience at Heat Wave he has learned numerous skills involving all parts of the video game production process. Attending the University of California-San Diego, Jack study's as a Interdisciplinary Computing and the Arts Computer Music and Music Technology major (ICAM Music Major). Through this major he is learning how to develop in both the computer science and audio production world so he can effectively work with computer media on a wide scale. Jack aim's to leverage a proven knowledge of various software's as a tool kit that help's him achieve his goal of creating, editing, and designing audio in video games using Unity Scripting, Ableton, Reaper, Audacity, Wwise, and Pure Data. Check the Projects tab to see what Jack has worked on! 
+###  **Personal Description**
+ ​Jack fills the position of Lead Music Producer and Head of Programming at his company Heat Wave Games. Through his 2 years of work experience at Heat Wave he has learned numerous skills involving all parts of the video game production process. Attending the University of California-San Diego, Jack study's as a Interdisciplinary Computing and the Arts Computer Music and Music Technology major (ICAM Music Major). Through this major he is learning how to develop in both the computer science and audio production world so he can effectively work with computer media on a wide scale. Jack aim's to leverage a proven knowledge of various software's as a tool kit that help's him achieve his goal of creating, editing, and designing audio in video games using Unity Scripting, Ableton, Reaper, Audacity, Wwise, and Pure Data. Check the Projects tab to see what Jack has worked on! 
 
 
-### **Technologies I've Used!** </center>
+### **Technologies I've Used!** 
+
  ![](https://cdn.windowsreport.com/wp-content/uploads/2018/11/ableton-logo.jpg)
+
   ### Skills
  - Music Editing
  - Live effects 
  - Recording signal input  
 
  ![](https://th.bing.com/th/id/R.ab14ab51fb756ccdceea6c214fc1dfcc?rik=syrHxwKbTaQoKA&riu=http%3a%2f%2fwww.geekzone.fr%2fwp-content%2fuploads%2f2016%2f04%2freaper_logo.jpg&ehk=TDmtsx3YCRrCnyokEs4X6jMbo%2f1jHJYvksiJBTjxW7A%3d&risl=&pid=ImgRaw&r=0) 
+
   ### Skills
  - Sound Design Creation
  - Applying EQ Filtering 
@@ -48,7 +48,7 @@
  - Modulating Volume on Various Live Tracks
 
 
-## <center>  Videos! 
+## Videos! 
 1. https://www.youtube.com/watch?v=-rTjWyZ4jbk
    
 
@@ -62,12 +62,15 @@ https://www.youtube.com/channel/UCQssG2pS3DwiiakwEG_fCfw
 
 
 
-### <center> Contact
+### Contact
 
+**Contact Via Email, Call, or Text** 
 
+Jackwagner654@gmail.com 
 
-| | |
-|-|-|
-| **Contact Via Email, Call, or Text** <br> Jackwagner654@gmail.com <br> (760) 612-9251 <br> *See Contacts & Refrences For More!* |<img src="https://cdn.discordapp.com/attachments/969018400695259199/1025503802419331113/unknown.png" alt="drawing" style="width:50%;height:50%; align\"/> 
+(760) 612-9251
 
+*See Contacts & Refrences For More!* 
+
+<img src="https://cdn.discordapp.com/attachments/969018400695259199/1025503802419331113/unknown.png" alt="drawing" style="width:50%;height:50%; align\"/> 
 
