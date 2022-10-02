@@ -33,7 +33,7 @@ Jack fills the position of Lead Music Producer and Head of Programming at his co
 
  ![](https://cdn.windowsreport.com/wp-content/uploads/2018/11/ableton-logo.jpg)
 
-  ### Skills
+### Skills
  - Music Editing
  - Live effects 
  - Recording signal input  
