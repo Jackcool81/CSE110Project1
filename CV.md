@@ -1,6 +1,6 @@
 # **CV** 
 
-[Home](home.md)  
+[Home](index.md)  
 
 [About](About.md) 
 
