@@ -2,7 +2,6 @@
 
 [Home](index.md) [About](About.md) [Portfoilio](Portfolio.md) [CV](CV.md) [Contacts](Contact.md) 
 | | |
-  
 |-|-|
 |<div style = "width:300px;"> **All The ways to Reach Me** </div>|![](https://cdn.discordapp.com/attachments/969018400695259199/1025487061303709746/Me.PNG)
 - [x] Email: **Jackwagner654@gmail.com**
