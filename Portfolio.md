@@ -1,6 +1,14 @@
-# <center> Portfolio
+# Portfolio
 
-[Home](index.md) [About](About.md) [Portfoilio](Portfolio.md) [CV](CV.md) [Contacts](Contact.md) 
+[Home](home.md) 
+
+[About](About.md) 
+
+[Portfoilio](Portfolio.md) 
+
+[CV](CV.md) 
+
+[Contacts](Contact.md) 
 
 ## Coding Minds Project Code
 
@@ -218,7 +226,6 @@ public class TicTacToe : MonoBehaviour
 This is an example of Pure Data Programming here I am creating acouple of simple effects for a sound. 
 The effects created are an AR envolpe, Octave Switch, and Auto Panning.
 ![](https://cdn.discordapp.com/attachments/969018400695259199/1025539969839808605/unknown.png)
-
 
 
 
